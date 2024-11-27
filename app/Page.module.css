@@ -1,0 +1,22 @@
+.background {
+  background-color: rgb(17, 127, 163);
+}
+
+.font {
+  font-family: 'Elephantia', sans-serif;
+  font-size: 24px;
+  color: white;
+  text-align: center;
+  text-decoration: wavy;
+  padding: 20px;
+  margin: 0;
+}
+
+.default {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  color: #000;
+  text-align: left;
+  margin-left: 0ch;
+  margin-right: 0cap;
+}
